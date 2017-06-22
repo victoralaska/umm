@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns        = "http://www.w3.org/ns/widgets"
     xmlns:gap    = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.getting.started"
+    id        = "com.eschool2.getting.started"
     version     = "1.0.0">
 
-    <name>umm: Unofficial Moodle Mobile app</name>
+    <name>ABUeLearn Mobile app</name>
 
     <description>
-        A clone of the official Moodle Mobile app (iPhone)
+        Ahmadu Bello University eLearning Mobile App
     </description>
 
-    <author href="http://twitter.com/jleyvadelgado"
-        email="juanleyvadelgado@gmail.com">
-        Juan Leyva
+    <author href="http://byteplus.ng"
+        email="veyinla@byteplus.ng">
+        Vic Eyinla
     </author>
 
     <gap:platforms>
